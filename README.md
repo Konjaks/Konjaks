@@ -1,4 +1,4 @@
-#Hi, I'm @Konjaks#
+# Hi, I'm @Konjaks #
 * 👀 I’m trying to learn HTML/CSS/JS, I am good at c++/c/c#
 * 🐍 and currenty learning Python
 * 🌱 However, I did not post many libraries for you, but I hope my collection of helpful libraries will grow
